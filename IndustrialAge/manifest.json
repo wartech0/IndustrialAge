@@ -1,0 +1,10 @@
+﻿{
+  "Name": "TestMod",
+  "Author": "wartech0",
+  "Version": "1.0.0",
+  "Description": "Mod to test event handlers",
+  "UniqueID": "wartech0.IA",
+  "EntryDll": "TestMod.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
